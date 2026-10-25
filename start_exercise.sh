@@ -2,7 +2,7 @@
 # Simple script to clone the TDD exercise repository into a fresh directory.
 # Usage: ./start_exercise.sh
 
-REPO_URL="https://github.com/your-org/week1-tdd-exercise.git"
+REPO_URL="https://github.com/The-British-College-Nepal/week1-tdd-exercise.git"
 TARGET_DIR="week1-tdd-exercise"
 
 if [ -d "$TARGET_DIR" ]; then
